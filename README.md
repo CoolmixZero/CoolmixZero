@@ -1,3 +1,1 @@
-# Resume
-
-![about](https://user-images.githubusercontent.com/107999456/175116651-f066366f-2800-4733-9f6e-2365e28c388d.png)
+![Nikita's Resume for GitHub](https://user-images.githubusercontent.com/107999456/175118833-7aa6e19a-6af6-4132-9a80-3ffaeafb1ab7.png)
