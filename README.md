@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=999999999999&color=EE82EE&multiline=true&width=435&height=60&lines=Hi%2C++I'm+Nikita+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=999999999999&color=EE82EE&multiline=true&width=435&height=60&lines=Hi%2C++I'm+Nikita+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=250&color=EE82EE%09&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Skills%3A;Python+-+SQL%2FNoSQL+-+C%2FC%2B%2B;OOP+-+Selenium+-+Pandas;REST+API+-+DRY+-+KISS+-+YAGNI)](https://git.io/typing-svg)
 
