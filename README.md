@@ -29,7 +29,7 @@ ____
 
 ____
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=github_dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
 
 ____
 
@@ -46,10 +46,10 @@ ____
 </details>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ____
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
