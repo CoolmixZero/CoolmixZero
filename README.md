@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=Hi%2C++Hey+there%F0%9F%91%8B)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=Hey+there%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
