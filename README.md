@@ -16,7 +16,8 @@ I am Nikita Shalashkov and currently studying computer science in [Technical Uni
 
 ____
 
-## 
+## ls
+
 <p align="center">
   
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
