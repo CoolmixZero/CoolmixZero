@@ -29,11 +29,21 @@ ____
 
 ____
 
+#### 📊 Github stats
+
+<details>
+<summary>GitHub Profile Stats ...</summary>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+  
+</details>
+<!-- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolmixZero&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=dracula) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
