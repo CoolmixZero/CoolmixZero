@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=EE82EE&center=true&vCenter=true&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=solarized_dark)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero)
