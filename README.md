@@ -6,11 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=EE82EE&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolmixZero&theme=solarized_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolmixZero&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolmixZero&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=solarized_dark)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=dracula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero)](https://github.com/ryo-ma/github-profile-trophy)
 
