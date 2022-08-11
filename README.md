@@ -34,8 +34,8 @@ ____
 <details>
 <summary>GitHub Profile Stats ...</summary>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
