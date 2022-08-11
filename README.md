@@ -2,11 +2,15 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 
+____
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6%09&width=1260&height=100&lines=Skills%3A;Python+-+SQL%2FNoSQL+-+C%2FC%2B%2B;OOP+-+Selenium+-+Pandas;REST+API+-+DRY+-+KISS+-+YAGNI)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6%09&width=1260&height=100&lines=Education%3A+;Technical+University+of+Ko%C5%A1ice)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
+
+____
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=dracula)
 
@@ -15,6 +19,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=dracula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+____
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
