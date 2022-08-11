@@ -1,4 +1,5 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=Hey+there%F0%9F%91%8B)](https://git.io/typing-svg)
+## Hey there 
+I am Nikita Shalashkov and currently studying computer science in [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke/!ut/p/z1/dYzBCoJAFEW_xmW-h40i7QbaJGpCgfY2oTGOos3IzNRAX5_QKqi7O5dzLxA0QKp9jrJ1o1btvPKFkmvOYxZlDItjmkTIq8O53LOiKmOEGghoVfBPOEIGJGfdfd646rapBDKiF0aY8GHWenBusbsAA_Teh1JrOYvwpu8B_poM2jpovk042QmWSb1yUW_eltIJvg!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/). I am a tech enthusiast & Python Developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -17,6 +18,7 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=60&lines=Who+am+I?)](https://git.io/typing-svg)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=40&lines=I'm+studying+Intelligent+Systems+in+Technical+University+of+Košice.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=40&lines=Currently+looking+for+a+Python+Developer+position.)](https://git.io/typing-svg)
 ____
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
