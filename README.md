@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=Hi%2C++I'm+Nikita+%F0%9F%91%8B)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=Hi%2C++I'm+Nikita%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 
