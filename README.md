@@ -17,23 +17,17 @@ I am Nikita Shalashkov and currently studying computer science in [Technical Uni
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=dracula)
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=60&lines=Who+am+I?)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=40&lines=I'm+studying+Intelligent+Systems+in+Technical+University+of+Košice.)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=40&lines=Currently+looking+for+a+Python+Developer+position.)](https://git.io/typing-svg)
 ____
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 
 ____
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6%09&width=1260&height=100&lines=Skills%3A;Python+-+SQL%2FNoSQL+-+C%2FC%2B%2B;OOP+-+Selenium+-+Pandas;REST+API+-+DRY+-+KISS+-+YAGNI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6%09&width=1260&height=100&lines=Education%3A+;Technical+University+of+Ko%C5%A1ice)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
 
 ____
 
-#### 📊 Github stats
+## 📊 Github stats
 
 <details>
 <summary>GitHub Profile Stats ...</summary>
