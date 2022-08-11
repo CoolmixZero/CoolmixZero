@@ -35,15 +35,11 @@ ____
 <summary>GitHub Profile Stats ...</summary>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&theme=dracula)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolmixZero&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=dracula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
