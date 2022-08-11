@@ -37,7 +37,7 @@ I am Nikita Shalashkov and currently studying computer science in [Technical Uni
   
 ____
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
 
 ____
 
