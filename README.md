@@ -14,6 +14,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=dracula)
