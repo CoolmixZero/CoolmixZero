@@ -1,4 +1,4 @@
-## 𝗛𝗲y there
+## Hey there
 
 <a href="https://www.instagram.com/it_shalash/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -42,7 +42,7 @@ ____
 ____
 
 
-## 📊 Github stats
+## 𝗦𝘁𝗮𝘁𝘀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
