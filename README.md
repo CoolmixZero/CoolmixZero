@@ -12,7 +12,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=dracula)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero)
 
