@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=250&color=EE82EE%09&width=435&height=30&lines=Education%3A+;Technical+University+of+Ko%C5%A1ice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=250&color=EE82EE%09&center=true&vCenter=true&width=435&height=30&lines=Education%3A+;Technical+University+of+Ko%C5%A1ice)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=250&color=EE82EE&width=435&height=30&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=250&color=EE82EE&center=true&vCenter=true&width=435&height=30&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
 
