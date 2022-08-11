@@ -18,7 +18,7 @@ ____
 
 ## ls
 
-<p align="center">
+<center>
   
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -29,7 +29,7 @@ ____
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
-</p>
+</center>
   
 ____
 
