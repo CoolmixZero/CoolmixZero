@@ -17,7 +17,8 @@ I am Nikita Shalashkov and currently studying computer science in [Technical Uni
 ____
 
 ## 
-
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
@@ -27,6 +28,8 @@ ____
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
+</p>
+  
 ____
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
