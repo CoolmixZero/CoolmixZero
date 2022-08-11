@@ -8,13 +8,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolmixZero&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolmixZero&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolmixZero&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolmixZero&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolmixZero&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolmixZero&theme=solarized_dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero)](https://github.com/ryo-ma/github-profile-trophy)
 
