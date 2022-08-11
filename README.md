@@ -14,7 +14,7 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=dracula)
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=Who+am+I?)](https://git.io/typing-svg)
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=60&lines=Who+am+I?)](https://git.io/typing-svg)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=100&lines=I'm+a+Intelligent+systems+student+in+Technical+University+of+Košice)](https://git.io/typing-svg)
 ____
