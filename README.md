@@ -15,17 +15,22 @@ I am Nikita Shalashkov and currently studying computer science in [Technical Uni
 </a>
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=dracula)
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=60&lines=Who+am+I?)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=999999999999&color=ff79c6&multiline=true&width=1000&height=60&lines=Who+am+I?)](https://git.io/typing-svg)
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ____
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 
 ____
 
-
-
-____
 
 ## 📊 Github stats
 
