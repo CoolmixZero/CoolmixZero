@@ -6,5 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=EE82EE&center=true&vCenter=true&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero)](https://github.com/ryo-ma/github-profile-trophy)
 
