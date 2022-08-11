@@ -47,4 +47,4 @@ ____
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
