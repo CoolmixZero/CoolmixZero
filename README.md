@@ -2,11 +2,11 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=EE82EE%09&width=1260&height=100&lines=Skills%3A;Python+-+SQL%2FNoSQL+-+C%2FC%2B%2B;OOP+-+Selenium+-+Pandas;REST+API+-+DRY+-+KISS+-+YAGNI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6%09&width=1260&height=100&lines=Skills%3A;Python+-+SQL%2FNoSQL+-+C%2FC%2B%2B;OOP+-+Selenium+-+Pandas;REST+API+-+DRY+-+KISS+-+YAGNI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=EE82EE%09&width=1260&height=100&lines=Education%3A+;Technical+University+of+Ko%C5%A1ice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6%09&width=1260&height=100&lines=Education%3A+;Technical+University+of+Ko%C5%A1ice)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=EE82EE&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3500&pause=250&color=ff79c6&width=1260&height=100&lines=Studying%3A;Intelligent+systems)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolmixZero&theme=dracula)
 
