@@ -12,7 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=github_dark )
 
-I am [Nikita Shalashkov](https://user-images.githubusercontent.com/86485749/184663590-ca608996-37d4-4e5f-a9a7-194e74e0191c.png) and currently studying computer science in [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke/!ut/p/z1/dYzBCoJAFEW_xmW-h40i7QbaJGpCgfY2oTGOos3IzNRAX5_QKqi7O5dzLxA0QKp9jrJ1o1btvPKFkmvOYxZlDItjmkTIq8O53LOiKmOEGghoVfBPOEIGJGfdfd646rapBDKiF0aY8GHWenBusbsAA_Teh1JrOYvwpu8B_poM2jpovk042QmWSb1yUW_eltIJvg!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/). I am a tech enthusiast & Python Developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
+I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/9338153/Nikita.s.Resume.pdf) and currently studying computer science in [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke/!ut/p/z1/dYzBCoJAFEW_xmW-h40i7QbaJGpCgfY2oTGOos3IzNRAX5_QKqi7O5dzLxA0QKp9jrJ1o1btvPKFkmvOYxZlDItjmkTIq8O53LOiKmOEGghoVfBPOEIGJGfdfd646rapBDKiF0aY8GHWenBusbsAA_Teh1JrOYvwpu8B_poM2jpovk042QmWSb1yUW_eltIJvg!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/). I am a tech enthusiast & Python Developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
 
 ## My Tech Stack
 
