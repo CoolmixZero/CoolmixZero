@@ -36,13 +36,16 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 </div>
   
 ## Repositories
-<div align="center">
-  
+
+<a href="https://github.com/CoolmixZero/calculator-pyside6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark)](https://github.com/CoolmixZero/calculator-pyside6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark)](https://github.com/CoolmixZero/telebot-helperbot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark)](https://github.com/CoolmixZero/yclients-api-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=Projects&theme=github_dark)](https://github.com/CoolmixZero/Projects)
-</div>
+
 ____
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&bgColor=00000000)
 ____
