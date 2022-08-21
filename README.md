@@ -36,7 +36,7 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 </div>
   
 ## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark)](https://github.com/CoolmixZero/calculator-pyside6&)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&theme=github_dark&repo=calculator-pyside6)](https://github.com/CoolmixZero/calculator-pyside6&)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark)](https://github.com/CoolmixZero/telebot-helperbot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark)](https://github.com/CoolmixZero/yclients-api-python)
 
