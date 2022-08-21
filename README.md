@@ -38,14 +38,14 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 ## Repositories
 
 <a href="https://github.com/CoolmixZero/yclients-api-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&layout=compact&repo=yclients-api-python&theme=github_dark" />
 </a>
 
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&layout=compact&repo=calculator-pyside6&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/telebot-helperbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&layout=compact&repo=telebot-helperbot&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
@@ -58,6 +58,6 @@ ____
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&count_private=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
