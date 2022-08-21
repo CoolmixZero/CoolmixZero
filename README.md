@@ -39,10 +39,13 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
+</a>
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
+</a>
 <a href="https://github.com/CoolmixZero/telebot-helperbot">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark" />
+</a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
 </a>
