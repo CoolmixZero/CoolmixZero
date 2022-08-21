@@ -50,6 +50,7 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
 </a>
 
+
 ____
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&bgColor=00000000)
 ____
