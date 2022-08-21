@@ -46,9 +46,7 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
 </a>
-<a href="https://github.com/CoolmixZero/Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=Projects&theme=github_dark" />
-</a>
+
 
 ____
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&bgColor=00000000)
