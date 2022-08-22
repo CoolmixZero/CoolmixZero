@@ -36,7 +36,7 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 </div>
   
 ## Repositories
-<img align="center" src="https://user-images.githubusercontent.com/107999456/185898020-77334c20-9963-4821-a818-1464df282ec4.png" height="90" width="90">
+<img align="center" src="https://user-images.githubusercontent.com/107999456/185898020-77334c20-9963-4821-a818-1464df282ec4.png" height="60" width="60">
 
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
