@@ -42,16 +42,16 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 </a>
 <img src="https://user-images.githubusercontent.com/107999456/185898020-77334c20-9963-4821-a818-1464df282ec4.png" height="50" width="50">
 <br><a href="https://github.com/CoolmixZero/calculator-pyside6">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/telebot-helperbot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-c">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-c&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-c&theme=github_dark" />
 </a>
 
 ____
