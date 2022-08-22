@@ -41,6 +41,7 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
 </a>
 
+
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
 </a>
