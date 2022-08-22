@@ -46,8 +46,8 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
 <a href="https://github.com/CoolmixZero/telebot-helperbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark" />
 </a>
-<a href="https://github.com/CoolmixZero/projects-school-c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-c&theme=github_dark" />
+<a href="https://github.com/CoolmixZero/projects-school-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-c&theme=github_dark" />
