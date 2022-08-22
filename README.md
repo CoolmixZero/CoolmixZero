@@ -37,10 +37,12 @@ I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/files/933815
   
 ## Repositories
 
-<img align="left" src="https://user-images.githubusercontent.com/107999456/185898020-77334c20-9963-4821-a818-1464df282ec4.png" alt="<b>TOP</b>" height="30" width="30">
+<img align="left | top" src="https://user-images.githubusercontent.com/107999456/185898020-77334c20-9963-4821-a818-1464df282ec4.png" height="30" width="30">
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
 </a>
+<img align="left | middle" src="https://user-images.githubusercontent.com/107999456/185900532-3e846b8a-dc2d-4401-8bd5-3711cc09ac45.png" height="30" width="30">
+
 <br><br><br><a href="https://github.com/CoolmixZero/calculator-pyside6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
 </a>
