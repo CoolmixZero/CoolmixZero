@@ -61,7 +61,7 @@ ____
 
 ## Stats
 
-[![Anurag's GitHub stats]()](https://github.com/CoolmixZero?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
