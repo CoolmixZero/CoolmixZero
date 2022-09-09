@@ -59,9 +59,7 @@ Feel free to connect with me.
 </a>
 
 ____
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&bgColor=00000000)
-
 ____
 
 ## Stats
