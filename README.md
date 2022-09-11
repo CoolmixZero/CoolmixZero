@@ -19,8 +19,6 @@ Feel free to connect with me.
 
 ## My Tech Stack
 
-<div align="center | left">
-  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/CoolmixZero?tab=repositories)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
@@ -35,8 +33,6 @@ Feel free to connect with me.
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
-
-</div>
   
 ## Repositories
 
@@ -64,11 +60,12 @@ ____
 
 ## Stats
 
-<div align="center | left">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
+<a href="https://github.com/CoolmixZero?tab=repositories">
+  <img width=440 src="https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=github_dark" />
+</a>
+<a href="https://github.com/CoolmixZero?tab=repositories">
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=github_dark" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
 
-</div>
