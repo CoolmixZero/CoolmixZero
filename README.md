@@ -61,7 +61,7 @@ ____
 ## Stats
 
 <a href="https://github.com/CoolmixZero?tab=repositories">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=github_dark" />
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero?tab=repositories">
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=github_dark" />
