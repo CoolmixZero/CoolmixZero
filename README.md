@@ -19,7 +19,7 @@ Feel free to connect with me.
 
 ## My Tech Stack
 
-<div align="center">
+<div align="center | left">
   
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/CoolmixZero?tab=repositories)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
@@ -61,11 +61,14 @@ Feel free to connect with me.
 
 ____
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&bgColor=00000000)
-____
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&show_icons=true&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&layout=compact&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
+<div align="center | left">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=github_dark)](https://github.com/CoolmixZero?tab=repositories)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
+
+</div>
