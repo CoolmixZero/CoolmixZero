@@ -41,22 +41,22 @@ Feel free to connect with me.
 ## Repositories
 
 <a href="https://github.com/CoolmixZero/yclients-api-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/telebot-helperbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/flappy-bird-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=flappy-bird-ai&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=flappy-bird-ai&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-c&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-c&hide_border=true&theme=github_dark" />
 </a>
 
 ____
