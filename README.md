@@ -48,7 +48,7 @@ Feel free to connect with me.
 <a href="https://github.com/CoolmixZero/flappy-bird-ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=flappy-bird-ai&hide_border=true&theme=github_dark" />
 </a>
-<a href="https://github.com/CoolmixZero/projects-school-c">
+<a href="https://github.com/CoolmixZero/image-to-ascii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=image-to-ascii&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
