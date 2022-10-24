@@ -51,7 +51,7 @@ Feel free to connect with me.
 <a href="https://github.com/CoolmixZero/image-to-ascii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=image-to-ascii&hide_border=true&theme=github_dark" />
 </a>
-<a href="https://github.com/CoolmixZero/">
+<a href="https://github.com/CoolmixZero/postgres-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=postgres-challenge&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
