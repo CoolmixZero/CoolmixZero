@@ -48,6 +48,9 @@ Feel free to connect with me.
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
 </a>
+<a href="https://github.com/CoolmixZero/hackathon-challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackathon-challenge&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
+</a>
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&hide_border=true&theme=github_dark" />
 </a>
