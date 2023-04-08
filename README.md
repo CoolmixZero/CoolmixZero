@@ -49,6 +49,9 @@ Feel free to connect with me.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/hackathon-challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackme-2023&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
+</a>
+<a href="https://github.com/CoolmixZero/hackathon-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackathon-challenge&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
@@ -68,9 +71,6 @@ Feel free to connect with me.
 </a>
 <a href="https://github.com/CoolmixZero/projects-school-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&hide_border=true&theme=github_dark" />
-</a>
-<a href="https://github.com/CoolmixZero/projects-school-csharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-csharp&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/matlab-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=matlab-projects&hide_border=true&theme=github_dark" />
