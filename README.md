@@ -79,12 +79,6 @@ Feel free to connect with me.
 <a href="https://github.com/CoolmixZero/postgres-challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=postgres-challenge&hide_border=true&theme=github_dark" />
 </a>
-<a href="https://github.com/CoolmixZero/projects-school-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=projects-school-python&hide_border=true&theme=github_dark" />
-</a>
-<a href="https://github.com/CoolmixZero/matlab-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=matlab-projects&hide_border=true&theme=github_dark" />
-</a>
 
 ____
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=algolia&bgColor=00000000)
