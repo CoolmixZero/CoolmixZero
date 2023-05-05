@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=github_dark )
 
 I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/blob/main/Nikita's%20Resume.pdf) and currently studying artificial intelligence in [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke/!ut/p/z1/dYzBCoJAFEW_xmW-h40i7QbaJGpCgfY2oTGOos3IzNRAX5_QKqi7O5dzLxA0QKp9jrJ1o1btvPKFkmvOYxZlDItjmkTIq8O53LOiKmOEGghoVfBPOEIGJGfdfd646rapBDKiF0aY8GHWenBusbsAA_Teh1JrOYvwpu8B_poM2jpovk042QmWSb1yUW_eltIJvg!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/). 
-I am a tech enthusiast & Python Developer. Always open to collaborating on projects and innovative/disruptive ideas. 
+I am a tech enthusiast & Data Engineer. Always open to collaborating on projects and innovative/disruptive ideas. 
 
 Feel free to connect with me.
 
