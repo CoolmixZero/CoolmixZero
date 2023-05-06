@@ -15,7 +15,7 @@
 I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/blob/main/Nikita's%20Resume.pdf) and currently studying artificial intelligence in [Technical University of Košice](https://www.tuke.sk/wps/portal/tuke/!ut/p/z1/dYzBCoJAFEW_xmW-h40i7QbaJGpCgfY2oTGOos3IzNRAX5_QKqi7O5dzLxA0QKp9jrJ1o1btvPKFkmvOYxZlDItjmkTIq8O53LOiKmOEGghoVfBPOEIGJGfdfd646rapBDKiF0aY8GHWenBusbsAA_Teh1JrOYvwpu8B_poM2jpovk042QmWSb1yUW_eltIJvg!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/). 
 I am a tech enthusiast & Data Engineer. Always open to collaborating on projects and innovative/disruptive ideas. 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gw9w028pxdom49dvfsd889zlo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/CoolmixZero/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gw9w028pxdom49dvfsd889zlo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/CoolmixZero/spotify-github-profile)
 
 Feel free to connect with me.
 
