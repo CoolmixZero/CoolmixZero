@@ -94,5 +94,5 @@ ____
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=github_dark" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&theme=darkhub&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&title=MultiLanguage,Commits,Stars,PullRequest,Repositories,Followers&theme=darkhub&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
 
