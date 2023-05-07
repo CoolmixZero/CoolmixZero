@@ -33,7 +33,6 @@ Feel free to connect with me.
 [![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black)](https://github.com/CoolmixZero?tab=repositories)
 
 ## Tools & Languages
 #### Front-end
