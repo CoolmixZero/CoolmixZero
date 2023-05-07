@@ -36,7 +36,7 @@ Feel free to connect with me.
 [![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black)](https://github.com/CoolmixZero?tab=repositories)
 
 ## Tools & Languages
-### Front-end
+#### Front-end
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/CoolmixZero?tab=repositories)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/CoolmixZero?tab=repositories)
