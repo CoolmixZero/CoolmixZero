@@ -73,7 +73,7 @@ Feel free to connect with me.
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
 </a>
-<a href="https://github.com/CoolmixZero/hackathon-challenge">
+<a href="https://github.com/CoolmixZero/hackme-2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackme-2023&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CoolmixZero/hackathon-challenge">
