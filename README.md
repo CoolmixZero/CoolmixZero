@@ -71,28 +71,28 @@ Feel free to connect with me.
 ## Repositories
 
 <a href="https://github.com/CoolmixZero/yclients-api-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/hackme-2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackme-2023&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackme-2023&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/hackathon-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackathon-challenge&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackathon-challenge&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/calculator-pyside6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=calculator-pyside6&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/telebot-helperbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=telebot-helperbot&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/flappy-bird-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=flappy-bird-ai&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=flappy-bird-ai&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/image-to-ascii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=image-to-ascii&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=image-to-ascii&hide_border=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero/postgres-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=postgres-challenge&hide_border=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=postgres-challenge&hide_border=true&theme=transparent" />
 </a>
 
 ____
