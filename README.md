@@ -101,11 +101,11 @@ ____
 ## Stats
 
 <a href="https://github.com/CoolmixZero?tab=repositories">
-  <img width=440 src="https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=github_dark" />
+  <img width=440 src="https://github-readme-stats.vercel.app/api?username=CoolmixZero&hide_border=true&show_icons=true&count_private=true&theme=transparent" />
 </a>
 <a href="https://github.com/CoolmixZero?tab=repositories">
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=github_dark" />
+  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=transparent" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&title=MultiLanguage,Commits,Stars,PullRequest,Repositories,Followers&theme=darkhub&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&title=MultiLanguage,Commits,Stars,PullRequest,Repositories,Followers&theme=transparent&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
 
