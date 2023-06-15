@@ -73,6 +73,9 @@ Feel free to connect with me.
 <a href="https://github.com/CoolmixZero/yclients-api-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=yclients-api-python&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=transparent" />
 </a>
+<a href="https://github.com/CoolmixZero/mydiary-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=mydiary-ai&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=transparent" />
+</a>
 <a href="https://github.com/CoolmixZero/hackme-2023">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=hackme-2023&icon_color=F5EB72&title_color=fffa86&hide_border=true&theme=transparent" />
 </a>
@@ -90,9 +93,6 @@ Feel free to connect with me.
 </a>
 <a href="https://github.com/CoolmixZero/image-to-ascii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=image-to-ascii&hide_border=true&theme=transparent" />
-</a>
-<a href="https://github.com/CoolmixZero/postgres-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolmixZero&repo=postgres-challenge&hide_border=true&theme=transparent" />
 </a>
 
 ____
