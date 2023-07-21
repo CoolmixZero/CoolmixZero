@@ -1,13 +1,13 @@
 # Hey there
 
 <a href="https://www.instagram.com/it_shalash/">
-  <img align="left" alt="Nikita's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Nikita's Instagram" width="24px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />
 </a>
 <a href="https://discordapp.com/users/237980256848445440/">
-  <img align="left" alt="Nikita's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Nikita's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nikita-shalashkov/">
-  <img align="left" alt="Nikita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Nikita's LinkedIN" width="24px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=github_dark )
