@@ -1,8 +1,5 @@
 # Hey there
 
-<a href="https://www.instagram.com/it_shalash/">
-  <img align="left" alt="Nikita's Instagram" width="24px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />
-</a>
 <a href="https://discordapp.com/users/237980256848445440/">
   <img align="left" alt="Nikita's Discord" width="24px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
