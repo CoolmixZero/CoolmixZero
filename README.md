@@ -39,5 +39,3 @@ Feel free to connect with me.
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=transparent" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolmixZero&title=MultiLanguage,Commits,Stars,PullRequest,Repositories,Followers&theme=transparent&no-frame=true)](https://github.com/CoolmixZero?tab=repositories)
-
