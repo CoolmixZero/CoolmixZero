@@ -42,3 +42,8 @@ Feel free to connect with me.
   <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolmixZero&hide_border=true&layout=compact&count_private=true&theme=transparent" />
 </a>
 
+### Buy me a coffee
+
+<a href="https://buymeacoffee.com/coolmixzero">
+  <img src="https://github.com/user-attachments/assets/d8793ea8-7500-4585-ac98-42cefa07bcfc" width=200/>
+</a>
