@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CoolmixZero&theme=github_dark )
 
-I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/blob/main/CV.pdf) and currently working at Deutsche Telekom as Junior Application Developer. 
+I am [Nikita Shalashkov](https://github.com/CoolmixZero/CoolmixZero/blob/main/CV.pdf) and currently working at Deutsche Telekom as Application Developer. 
 I am a tech enthusiast & Data Engineer. Always open to collaborating on projects and innovative/disruptive ideas. 
 
 Feel free to connect with me.
